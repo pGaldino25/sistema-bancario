@@ -26,7 +26,7 @@ A aplicação permite realizar as seguintes operações:
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd desafio-caixa-eletronico
+    cd sistema-bancario
     ```
 
 3. Execute o programa:
