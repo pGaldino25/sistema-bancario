@@ -21,7 +21,7 @@ A aplicação permite realizar as seguintes operações:
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/pGaldino25/desafio-caixa-eletronico.git
+    git clone https://github.com/pGaldino25/sistema-bancario.git
     ```
 
 2. Navegue até o diretório do projeto:
